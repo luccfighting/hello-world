@@ -1,2 +1,3 @@
 # hello-world
-for practice
+为实践
+为练习
